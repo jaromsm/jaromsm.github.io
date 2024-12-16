@@ -1,89 +1,72 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: "Résumé"
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Jarom Martineau
+Entrepreneur, Pianist, and Student.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jaromsm@byui.edu">jaromsm@byui.edu</a>
+| <a href="https://www.linkedin.com/in/jarom-martineau-515a69222">LinkedIn Profile</a>
 </div>
 
+## Profile
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+As an entrepreneur and internationally acclaimed pianist, I have developed immensely valuable qualities that equip me well to contribute to a company. Competing (and often winning) at the world’s highest levels in the fine arts taught me the importance of listening to those further ahead than I am. The grueling conditions of door-to-door sales in Oklahoma taught me the importance of diligent effort and showing up with a smile on my face every day, no matter what.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2023 - Current`
+__Brigham Young University - Idaho, Rexburg, ID__  
+Data Science Major - 3rd Year
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2020-2021`
+__Brigham Young University, Provo, UT__
 
-- Sizar
+`2022-2023`
+__Utah Valley University, Orem, UT__
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Work Experience
 
-- Fellow
+### Moxie Pest Control
+__Door-to-Door Sales__  
+`Summers of 2021-2023`  
+Sold approximately $260,000 worth of pest control contracts door-to-door.
 
+### Invisible Window Cleaning
+__Founder__  
+`Winters of 2020 and 2023`  
+- Sold dozens of accounts door-to-door before migrating to a primarily paid ads approach.
+- Developed and ran highly effective ads resulting in an average of approximately 7-10 qualified local leads per day.
+- Started a small company with nothing but a few hundred dollars.
 
+### Furniture Resale
+`Winter 2021, Summer 2024`  
+- Purchased and resold close to 100 pieces of furniture while in school full-time.
+- Averaged more than $200 of profit per piece.
+- Hired 6 employees, effectively automating the entire process.
+- Built out an operations platform on AirTable to allow each employee’s work to be clear, integrate with the others, and allow for easy oversight.
 
-## Awards
+### Connect Method Parenting
+__Social Media Management__  
+`November 2023 - Current`  
+- Scripting, filming, and editing of short and long-form social media content for a parent-coaching business.
 
-`2012`
-President, *Royal Society*, London, UK
+## Achievements
 
-Associate, *French Academy of Science*, Paris, France
+### Award-Winning Pianist
+- Performed a solo and duet in Carnegie Hall.
+- Placed first and second in the 2016 and 2017 international American Protege music competitions.
+- Took first place in the Bösendorfer and Yamaha USASU International Piano Competition.
+- Took first and third in national Steinway Avanti Competitions.
+- Won the Utah Symphony Young Artists music competition and performed a 20+ minute concerto with the symphony in a special winners concert.
+- Took first in the state and regional MTNA competitions and was selected as one of 7 national finalists.
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+### LDS Mission
+- Served a 2-year mission for the Church of Jesus Christ of Latter Day Saints in Oklahoma and Texas.
+- Served in the two highest forms of missionary leadership for 3/4ths of that time, during which I developed many important leadership and interpersonal skills.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: [Month Year] -->
